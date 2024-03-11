@@ -1,0 +1,27 @@
+header{
+    z-index: 100;
+}
+nav{
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+#topImg{
+    background-image: url("Assets/Side\ View.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height:90vh;
+    background-size: cover;
+    font-size:35px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#topImgText{
+    background-color: rgba(0, 0, 0, 0.775);
+    font-size:40px;
+
+}
+
+
+        
